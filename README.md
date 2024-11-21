@@ -1,4 +1,4 @@
-**Intro**
+**About the Project**
 
 Image classification using pure machine learning models presents a significant challenge due to the inherent nature of image data. Unlike other types of data, images require transformation into numerical formats for machine learning models to interpret them effectively. These transformations often involve representing images as pixel-based data, typically organized as a matrix. In our dataset, MRI scans are grayscale images with a resolution of 224x224 pixels, each pixel being a one-dimensional array encompassing three values (R, G, B). Consequently, these images, when converted into numerical data, form a 3D structure of shape (224x224x3), resulting in a 4D data representation.
 
